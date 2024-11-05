@@ -1,4 +1,8 @@
 ---
 title: Liens sociaux
-items: []
+items:
+- title: Institut français
+  target: https://www.institutfrancais.com/en
+  kind: url
+  children: []
 
