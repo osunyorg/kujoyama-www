@@ -8,6 +8,16 @@ fr:
   languageName: Français
   params:
     social:
+      x: >-
+        https://twitter.com/villakujoyama
+      linkedin: >-
+        https://www.linkedin.com/company/villakujoyama/
+      vimeo: >-
+        https://vimeo.com/villakujoyama
+      instagram: >-
+        https://www.instagram.com/villa_kujoyama/
+      facebook: >-
+        https://www.facebook.com/VillaKujoyama
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
@@ -36,6 +46,16 @@ en:
   languageName: English
   params:
     social:
+      x: >-
+        https://twitter.com/villakujoyama
+      linkedin: >-
+        https://www.linkedin.com/company/villakujoyama/
+      vimeo: >-
+        https://vimeo.com/villakujoyama
+      instagram: >-
+        https://www.instagram.com/villa_kujoyama/
+      facebook: >-
+        https://www.facebook.com/VillaKujoyama
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
