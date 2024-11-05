@@ -5,4 +5,8 @@ items:
   target: https://www.institutfrancais.com/en
   kind: url
   children: []
+- title: Institut français du Japon
+  target: https://institutfrancais.jp/fr/
+  kind: url
+  children: []
 
