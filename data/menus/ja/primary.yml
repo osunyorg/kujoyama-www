@@ -22,7 +22,7 @@ items:
   kind: page
   children: []
 - title: 教育機関
-  target: "/ja/-1/"
+  target: "/ja/l-institution/"
   kind: page
   children: []
 
