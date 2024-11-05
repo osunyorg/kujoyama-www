@@ -5,4 +5,8 @@ items:
   target: https://www.institutfrancais.com/fr
   kind: url
   children: []
+- title: アンスティチュ・フランセ
+  target: https://institutfrancais.jp
+  kind: url
+  children: []
 
