@@ -21,4 +21,8 @@ items:
   target: "/ja/organisations/"
   kind: page
   children: []
+- title: 教育機関
+  target: "/ja/-1/"
+  kind: page
+  children: []
 
