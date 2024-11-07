@@ -1,22 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Agenda
-  target: "/fr/agenda/"
-  kind: page
-  children: []
-- title: Projets
-  target: "/fr/projets/"
-  kind: page
-  children: []
-- title: Équipe
-  target: "/fr/equipe/"
-  kind: page
-  children: []
-- title: Organisations
-  target: "/fr/organisations/"
-  kind: page
-  children: []
 - title: L'institution
   target: "/fr/linstitution/"
   kind: page
