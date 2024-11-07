@@ -1,8 +1,12 @@
 ---
 title: Menu principal
 items:
-- title: L'institution
-  target: "/fr/linstitution/"
+- title: Résidence
+  target: ''
+  kind: blank
+  children: []
+- title: La Villa
+  target: "/fr/la-villa/"
   kind: page
   children: []
 
