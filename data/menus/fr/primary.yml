@@ -9,6 +9,10 @@ items:
     target: ''
     kind: blank
     children: []
+  - title: Sous-menu
+    target: ''
+    kind: blank
+    children: []
 - title: Artistes
   target: ''
   kind: blank
