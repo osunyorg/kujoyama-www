@@ -5,7 +5,7 @@ items:
   target: ''
   kind: blank
   children:
-  - title: Sous-menu
+  - title: Partenaires
     target: ''
     kind: blank
     children: []
