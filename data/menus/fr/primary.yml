@@ -4,7 +4,11 @@ items:
 - title: Résidence
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: Sous-menu
+    target: ''
+    kind: blank
+    children: []
 - title: Artistes
   target: ''
   kind: blank
