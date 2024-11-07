@@ -13,4 +13,8 @@ items:
   target: "/fr/la-villa/"
   kind: page
   children: []
+- title: Événements
+  target: "/fr/agenda/"
+  kind: page
+  children: []
 
