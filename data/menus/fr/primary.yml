@@ -5,6 +5,10 @@ items:
   target: ''
   kind: blank
   children: []
+- title: Artistes
+  target: ''
+  kind: blank
+  children: []
 - title: La Villa
   target: "/fr/la-villa/"
   kind: page
