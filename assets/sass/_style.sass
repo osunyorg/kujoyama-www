@@ -17,7 +17,28 @@
             .nav-level-1
                 > li
                     margin-left: $spacing-3
-
+#document-footer
+    padding-top: 0 !important
+    .nav-footer *
+            @include meta
+    .footer-logo
+        position: relative
+        .footer-text
+            @include meta
+            margin-top: $spacing-5
+            @include media-breakpoint-up(desktop)
+                max-width: columns(5)
+        .footer-partners
+            position: absolute
+            top: 0
+            @include media-breakpoint-down(desktop)
+                right: 0
+                img
+                    height: $footer-logo-height
+            @include media-breakpoint-up(desktop)
+                left: 300px
+                img
+                    height: $footer-logo-height-desktop
 .page__home
     @include media-breakpoint-up(desktop)
         .blocks
