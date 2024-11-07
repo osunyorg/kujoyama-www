@@ -9,12 +9,12 @@ items:
   target: ''
   kind: blank
   children: []
-- title: La Villa
-  target: "/fr/la-villa/"
+- title: Événements
+  target: "/fr/evenements/"
   kind: page
   children: []
-- title: Événements
-  target: "/fr/agenda/"
+- title: La Villa
+  target: "/fr/la-villa/"
   kind: page
   children: []
 
