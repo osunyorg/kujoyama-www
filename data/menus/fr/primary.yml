@@ -53,9 +53,9 @@ items:
     target: "/fr/la-villa/"
     kind: page
     children: []
-  - title: Origines
-    target: ''
-    kind: blank
+  - title: L'origine de la Villa
+    target: "/fr/lorigine-de-la-villa-kujoyama/"
+    kind: page
     children: []
 - title: Visiter
   target: "/fr/visiter/"
