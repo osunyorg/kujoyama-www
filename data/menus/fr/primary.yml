@@ -53,8 +53,8 @@ items:
     target: "/fr/la-villa/"
     kind: page
     children: []
-  - title: L'origine de la Villa
-    target: "/fr/lorigine-de-la-villa-kujoyama/"
+  - title: L’origine de la Villa Kujoyama
+    target: "/fr/origine-de-la-villa-kujoyama/"
     kind: page
     children: []
 - title: Visiter
