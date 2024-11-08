@@ -45,6 +45,10 @@ items:
   target: "/fr/evenements/"
   kind: page
   children: []
+- title: L'institution
+  target: ''
+  kind: blank
+  children: []
 - title: La Villa
   target: "/fr/la-villa/"
   kind: page
@@ -52,9 +56,5 @@ items:
 - title: Visiter
   target: "/fr/visiter/"
   kind: page
-  children: []
-- title: L'institution
-  target: ''
-  kind: blank
   children: []
 
