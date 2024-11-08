@@ -49,7 +49,7 @@ items:
   target: ''
   kind: blank
   children:
-  - title: La Villa
+  - title: Un programme d’excellence
     target: "/fr/la-villa/"
     kind: page
     children: []
