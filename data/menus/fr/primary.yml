@@ -21,11 +21,11 @@ items:
     target: ''
     kind: blank
     children:
-    - title: Post-résidence
+    - title: Accueil
       target: ''
       kind: blank
       children: []
-    - title: Accueil
+    - title: Post-résidence
       target: ''
       kind: blank
       children: []
