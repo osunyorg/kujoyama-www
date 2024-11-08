@@ -20,11 +20,11 @@ items:
   - title: Accompagnement
     target: ''
     kind: blank
-    children: []
-  - title: Post-résidence
-    target: ''
-    kind: blank
-    children: []
+    children:
+    - title: Post-résidence
+      target: ''
+      kind: blank
+      children: []
   - title: Actualités
     target: "/fr/actualites/"
     kind: page
