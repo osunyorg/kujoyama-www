@@ -53,4 +53,8 @@ items:
   target: "/fr/visiter/"
   kind: page
   children: []
+- title: L'institution
+  target: ''
+  kind: blank
+  children: []
 
