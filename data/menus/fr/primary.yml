@@ -53,6 +53,10 @@ items:
     target: "/fr/la-villa/"
     kind: page
     children: []
+  - title: Origines
+    target: ''
+    kind: blank
+    children: []
 - title: Visiter
   target: "/fr/visiter/"
   kind: page
