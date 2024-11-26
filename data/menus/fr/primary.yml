@@ -33,6 +33,7 @@ items:
     target: "/fr/actualites/"
     kind: page
     children: []
+    file: content/fr/posts/_index.html
   - title: Candidater
     target: ''
     kind: blank
@@ -45,6 +46,7 @@ items:
   target: "/fr/evenements/"
   kind: page
   children: []
+  file: content/fr/events/_index.html
 - title: L'institution
   target: ''
   kind: blank
@@ -53,12 +55,15 @@ items:
     target: "/fr/la-villa/"
     kind: page
     children: []
+    file: content/fr/pages/la-villa/_index.html
   - title: L’origine de la Villa Kujoyama
     target: "/fr/origine-de-la-villa-kujoyama/"
     kind: page
     children: []
+    file: content/fr/pages/origine-de-la-villa-kujoyama/_index.html
 - title: Visiter
   target: "/fr/visiter/"
   kind: page
   children: []
+  file: content/fr/pages/visiter/_index.html
 
