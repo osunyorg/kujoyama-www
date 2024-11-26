@@ -5,24 +5,30 @@ items:
   target: "/ja/actualites/"
   kind: page
   children: []
+  file: content/ja/posts/_index.html
 - title: Agenda
   target: "/ja/agenda/"
   kind: page
   children: []
+  file: content/ja/events/_index.html
 - title: Projets
   target: "/ja/projets/"
   kind: page
   children: []
+  file: content/ja/projects/_index.html
 - title: Équipe
   target: "/ja/equipe/"
   kind: page
   children: []
+  file: content/ja/persons/_index.html
 - title: Organisations
   target: "/ja/organisations/"
   kind: page
   children: []
+  file: content/ja/organizations/_index.html
 - title: 教育機関
   target: "/ja/l-institution/"
   kind: page
   children: []
+  file: content/ja/pages/l-institution/_index.html
 
