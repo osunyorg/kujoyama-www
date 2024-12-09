@@ -7,17 +7,34 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
-      x: >-
-        https://twitter.com/villakujoyama
-      linkedin: >-
-        https://www.linkedin.com/company/villakujoyama/
-      vimeo: >-
-        https://vimeo.com/villakujoyama
-      instagram: >-
-        https://www.instagram.com/villa_kujoyama/
-      facebook: >-
-        https://www.facebook.com/VillaKujoyama
+    contact_details:
+      social_networks:
+        facebook:
+          label: >-
+            VillaKujoyama
+          value: >-
+            https://www.facebook.com/VillaKujoyama
+        instagram:
+          label: >-
+            villa_kujoyama
+          value: >-
+            https://instagram.com/villa_kujoyama
+        linkedin:
+          label: >-
+            villakujoyama
+          value: >-
+            https://www.linkedin.com/company/villakujoyama/
+        vimeo:
+          label: >-
+            villakujoyama
+          value: >-
+            https://vimeo.com/villakujoyama
+        x:
+          label: >-
+            villakujoyama
+          value: >-
+            https://x.com/villakujoyama
+
   permalinks:
     events: /evenements/:year-:month-:day-:slug/
     events_categories: /evenements/:slug/
@@ -47,17 +64,34 @@ en:
   languageCode: en
   languageName: English
   params:
-    social:
-      x: >-
-        https://twitter.com/villakujoyama
-      linkedin: >-
-        https://www.linkedin.com/company/villakujoyama/
-      vimeo: >-
-        https://vimeo.com/villakujoyama
-      instagram: >-
-        https://www.instagram.com/villa_kujoyama/
-      facebook: >-
-        https://www.facebook.com/VillaKujoyama
+    contact_details:
+      social_networks:
+        facebook:
+          label: >-
+            VillaKujoyama
+          value: >-
+            https://www.facebook.com/VillaKujoyama
+        instagram:
+          label: >-
+            villa_kujoyama
+          value: >-
+            https://instagram.com/villa_kujoyama
+        linkedin:
+          label: >-
+            villakujoyama
+          value: >-
+            https://www.linkedin.com/company/villakujoyama/
+        vimeo:
+          label: >-
+            villakujoyama
+          value: >-
+            https://vimeo.com/villakujoyama
+        x:
+          label: >-
+            villakujoyama
+          value: >-
+            https://x.com/villakujoyama
+
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
@@ -87,17 +121,34 @@ ja:
   languageCode: ja
   languageName: 日本語
   params:
-    social:
-      x: >-
-        https://twitter.com/villakujoyama
-      linkedin: >-
-        https://www.linkedin.com/company/villakujoyama/
-      vimeo: >-
-        https://vimeo.com/villakujoyama
-      instagram: >-
-        https://www.instagram.com/villa_kujoyama/
-      facebook: >-
-        https://www.facebook.com/VillaKujoyama
+    contact_details:
+      social_networks:
+        facebook:
+          label: >-
+            VillaKujoyama
+          value: >-
+            https://www.facebook.com/VillaKujoyama
+        instagram:
+          label: >-
+            villa_kujoyama
+          value: >-
+            https://instagram.com/villa_kujoyama
+        linkedin:
+          label: >-
+            villakujoyama
+          value: >-
+            https://www.linkedin.com/company/villakujoyama/
+        vimeo:
+          label: >-
+            villakujoyama
+          value: >-
+            https://vimeo.com/villakujoyama
+        x:
+          label: >-
+            villakujoyama
+          value: >-
+            https://x.com/villakujoyama
+
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
