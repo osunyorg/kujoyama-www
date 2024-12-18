@@ -4,9 +4,11 @@ items:
 - title: Institut français
   target: https://www.institutfrancais.com/en
   kind: url
+  new_tab: true
   children: []
 - title: Institut français du Japon
   target: https://institutfrancais.jp/fr/
   kind: url
+  new_tab: true
   children: []
 

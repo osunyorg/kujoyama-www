@@ -4,36 +4,42 @@ items:
 - title: Actualités
   target: "/ja/actualites/"
   kind: page
+  new_tab: false
   children: []
   path: "/posts"
   file: content/ja/posts/_index.html
 - title: Agenda
   target: "/ja/agenda/"
   kind: page
+  new_tab: false
   children: []
   path: "/events"
   file: content/ja/events/_index.html
 - title: Projets
   target: "/ja/projets/"
   kind: page
+  new_tab: false
   children: []
   path: "/projects"
   file: content/ja/projects/_index.html
 - title: Équipe
   target: "/ja/equipe/"
   kind: page
+  new_tab: false
   children: []
   path: "/persons"
   file: content/ja/persons/_index.html
 - title: Organisations
   target: "/ja/organisations/"
   kind: page
+  new_tab: false
   children: []
   path: "/organizations"
   file: content/ja/organizations/_index.html
 - title: 教育機関
   target: "/ja/l-institution/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/l-institution"
   file: content/ja/pages/l-institution/_index.html
