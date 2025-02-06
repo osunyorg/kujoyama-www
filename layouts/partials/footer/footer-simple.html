@@ -13,7 +13,7 @@
     {{ if $menu }}
       {{ partial "commons/menu.html"
         (dict
-          "kind"        "footer"
+          "kind"        "nav-footer"
           "level"       1
           "class"       "nav-footer"
       )}}
@@ -25,12 +25,12 @@
     {{ partial "footer/social.html" }}
   </div>
   <div class="footer-legals">
-    {{ partial "footer/legals.html" }}
+    {{ partial "footer/legals.html" . }}
     {{ if and site.Params.search.active (in site.Params.search.positions "footer") }}
       <div class="footer-search">
         {{ partial "commons/search/button.html" "footer" }}
       </div>
     {{ end }}
-    {{ partial "footer/credit.html" }}
+    {{ partial "footer/credit.html" . }}
   </div>
 </div>
