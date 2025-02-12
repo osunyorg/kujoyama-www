@@ -2,6 +2,11 @@
 
 baseURL: https://www.kujoyama.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: ca23f895-3ff5-4d4d-ab0d-6328843cb69a
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: true
