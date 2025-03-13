@@ -6,6 +6,7 @@ fr:
   contentDir: content/fr
   languageCode: fr
   languageName: Français
+  buildFuture: true
   params:
     contact_details:
       social_networks:
@@ -36,7 +37,8 @@ fr:
             https://x.com/villakujoyama
 
   permalinks:
-    events: /evenements/:year-:month-:day-:slug/
+    events: /evenements/:year/:slug/
+    exhibitions: /expositions/:year-:month-:day-:slug/
     events_categories: /evenements/:slug/
     pages_categories: /:slug/
     projects: /projets/:year-:slug/
@@ -66,6 +68,7 @@ en:
   contentDir: content/en
   languageCode: en
   languageName: English
+  buildFuture: true
   params:
     contact_details:
       social_networks:
@@ -96,7 +99,8 @@ en:
             https://x.com/villakujoyama
 
   permalinks:
-    events: /agenda/:year-:month-:day-:slug/
+    events: /agenda/:year/:slug/
+    exhibitions: /:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     pages_categories: /:slug/
     projects: /projects/:year-:slug/
@@ -126,6 +130,7 @@ ja:
   contentDir: content/ja
   languageCode: ja
   languageName: 日本語
+  buildFuture: true
   params:
     contact_details:
       social_networks:
@@ -156,7 +161,8 @@ ja:
             https://x.com/villakujoyama
 
   permalinks:
-    events: /agenda/:year-:month-:day-:slug/
+    events: /agenda/:year/:slug/
+    exhibitions: /:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     pages_categories: /:slug/
     projects: /projets/:year-:slug/
