@@ -43,4 +43,11 @@ items:
   children: []
   path: "/pages/l-institution"
   file: content/ja/pages/l-institution/_index.html
+- title: Expositions
+  target: "/ja/expositions/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/exhibitions"
+  file: content/ja/exhibitions/_index.html
 
