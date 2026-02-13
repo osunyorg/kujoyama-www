@@ -2,13 +2,17 @@
 title: Liens sociaux
 items:
 - title: Institut français
+  slug: institut-francais
   target: https://www.institutfrancais.com/en
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Institut français du Japon
+  slug: institut-francais-du-japon
   target: https://institutfrancais.jp/fr/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 

@@ -2,23 +2,31 @@
 title: Footer
 items:
 - title: Contact
+  slug: contact
   target: ''
   kind: blank
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Équipe
+  slug: equipe
   target: ''
   kind: blank
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Recrutement
+  slug: recrutement
   target: ''
   kind: blank
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Presse
+  slug: presse
   target: ''
   kind: blank
   new_tab: false
   children: []
+  descendants_targets: []
 

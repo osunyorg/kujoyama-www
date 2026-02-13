@@ -2,88 +2,124 @@
 title: Menu principal
 items:
 - title: Résidence
+  slug: residence
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Partenaires
+    slug: partenaires
     target: ''
     kind: blank
     new_tab: false
     children:
     - title: Fondation Bettencourt Schueller
+      slug: fondation-bettencourt-schueller
       target: ''
       kind: blank
       new_tab: false
       children: []
+      descendants_targets: []
     - title: M. Pierre Bergé
+      slug: m-pierre-berge
       target: ''
       kind: blank
       new_tab: false
       children: []
+      descendants_targets: []
+    descendants_targets:
+    - ''
   - title: Accompagnement
+    slug: accompagnement
     target: ''
     kind: blank
     new_tab: false
     children:
     - title: Accueil
+      slug: accueil
       target: ''
       kind: blank
       new_tab: false
       children: []
+      descendants_targets: []
     - title: Post-résidence
+      slug: post-residence
       target: ''
       kind: blank
       new_tab: false
       children: []
+      descendants_targets: []
+    descendants_targets:
+    - ''
   - title: Actualités
+    slug: actualites
     target: "/fr/actualites/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts"
     file: content/fr/posts/_index.html
   - title: Candidater
+    slug: candidater
     target: ''
     kind: blank
     new_tab: false
     children: []
+    descendants_targets: []
+  descendants_targets:
+  - ''
+  - "/fr/actualites/"
 - title: Artistes
+  slug: artistes
   target: ''
   kind: blank
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Événements
+  slug: evenements
   target: "/fr/evenements/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/events"
   file: content/fr/events/_index.html
 - title: L'institution
+  slug: l-institution
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Un programme d’excellence
+    slug: un-programme-d-excellence
     target: "/fr/la-villa/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/la-villa"
     file: content/fr/pages/la-villa/_index.html
   - title: L’origine de la Villa Kujoyama
+    slug: l-origine-de-la-villa-kujoyama
     target: "/fr/origine-de-la-villa-kujoyama/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/origine-de-la-villa-kujoyama"
     file: content/fr/pages/origine-de-la-villa-kujoyama/_index.html
+  descendants_targets:
+  - "/fr/la-villa/"
+  - "/fr/origine-de-la-villa-kujoyama/"
 - title: Visiter
+  slug: visiter
   target: "/fr/visiter/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/visiter"
   file: content/fr/pages/visiter/_index.html
 

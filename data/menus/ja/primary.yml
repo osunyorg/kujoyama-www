@@ -2,52 +2,66 @@
 title: Menu principal
 items:
 - title: Actualités
+  slug: actualites
   target: "/ja/actualites/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/ja/posts/_index.html
 - title: Agenda
+  slug: agenda
   target: "/ja/agenda/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/events"
   file: content/ja/events/_index.html
 - title: Projets
+  slug: projets
   target: "/ja/projets/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/projects"
   file: content/ja/projects/_index.html
 - title: Équipe
+  slug: equipe
   target: "/ja/equipe/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/persons"
   file: content/ja/persons/_index.html
 - title: Organisations
+  slug: organisations
   target: "/ja/organisations/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/organizations"
   file: content/ja/organizations/_index.html
 - title: 教育機関
+  slug: ''
   target: "/ja/l-institution/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/l-institution"
   file: content/ja/pages/l-institution/_index.html
 - title: Expositions
+  slug: expositions
   target: "/ja/expositions/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/exhibitions"
   file: content/ja/exhibitions/_index.html
 
