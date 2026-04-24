@@ -15,102 +15,102 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/mentions-legales/index.html"
+from = "/mentions-legales/"
 to = "/fr/mentions-legales/"
 
 [[redirects]]
-from = "/fr/evenements/2024-11-07-jeudis-de-la-villa-kujoyama/index.html"
+from = "/fr/evenements/2024-11-07-jeudis-de-la-villa-kujoyama/"
 to = "/fr/evenements/2025/jeudis-de-la-villa-kujoyama/"
 
 [[redirects]]
-from = "/actualites/index.html"
+from = "/actualites/"
 to = "/fr/actualites/"
 
 [[redirects]]
-from = "/fr/linstitution/index.html"
+from = "/fr/linstitution/"
 to = "/fr/la-villa/"
 
 [[redirects]]
-from = "/fr/evenements/2024-10-18-viva-villa/index.html"
+from = "/fr/evenements/2024-10-18-viva-villa/"
 to = "/fr/evenements/2024/viva-villa/"
 
 [[redirects]]
-from = "/organisations/index.html"
+from = "/organisations/"
 to = "/fr/organisations/"
 
 [[redirects]]
-from = "/fr/projets/2024-natacha-poutoux-sacha-hourcade/index.html"
+from = "/fr/projets/2024-natacha-poutoux-sacha-hourcade/"
 to = "/fr/projets/2021-natacha-poutoux-sacha-hourcade/"
 
 [[redirects]]
-from = "/fr/evenements/2025-11-06-jeudis-de-la-villa-kujoyama/index.html"
+from = "/fr/evenements/2025-11-06-jeudis-de-la-villa-kujoyama/"
 to = "/fr/evenements/2025/jeudis-de-la-villa-kujoyama/"
 
 [[redirects]]
-from = "/plan-du-site/index.html"
+from = "/plan-du-site/"
 to = "/fr/plan-du-site/"
 
 [[redirects]]
-from = "/fr/evenements/2024-09-28-nuit-blanche-kyoto/index.html"
+from = "/fr/evenements/2024-09-28-nuit-blanche-kyoto/"
 to = "/fr/evenements/2024/nuit-blanche-kyoto/"
 
 [[redirects]]
-from = "/fr/actualites/2024-11-07-les-projets-des-laureats-et-laureates-2025-de-la-villa-kujoyama/index.html"
+from = "/fr/actualites/2024-11-07-les-projets-des-laureats-et-laureates-2025-de-la-villa-kujoyama/"
 to = "/fr/actualites/2024-07-24-les-projets-des-laureats-et-laureates-2025-de-la-villa-kujoyama/"
 
 [[redirects]]
-from = "/politique-de-confidentialite/index.html"
+from = "/politique-de-confidentialite/"
 to = "/fr/politique-de-confidentialite/"
 
 [[redirects]]
-from = "/fr/lorigine-de-la-villa-kujoyama/index.html"
+from = "/fr/lorigine-de-la-villa-kujoyama/"
 to = "/fr/origine-de-la-villa-kujoyama/"
 
 [[redirects]]
-from = "/accessibilite/index.html"
+from = "/accessibilite/"
 to = "/fr/accessibilite/"
 
 [[redirects]]
-from = "/equipe/equipe-editoriale/index.html"
+from = "/equipe/equipe-editoriale/"
 to = "/fr/equipe/equipe-editoriale/"
 
 [[redirects]]
-from = "/fr/equipe/dimitry-hlinka-nicolas-pinon/index.html"
+from = "/fr/equipe/dimitry-hlinka-nicolas-pinon/"
 to = "/fr/equipe/dimitry-hlinka/"
 
 [[redirects]]
-from = "/projets/index.html"
+from = "/projets/"
 to = "/fr/projets/"
 
 [[redirects]]
-from = "/fr/evenements/2024-10-16-10-ans-de-residences-metiers-dart-a-la-villa-kujoyama/index.html"
+from = "/fr/evenements/2024-10-16-10-ans-de-residences-metiers-dart-a-la-villa-kujoyama/"
 to = "/fr/evenements/2024/10-ans-de-residences-metiers-dart-a-la-villa-kujoyama/"
 
 [[redirects]]
-from = "/fr/projets/2024-marcus-borja/index.html"
+from = "/fr/projets/2024-marcus-borja/"
 to = "/fr/projets/2020-marcus-borja/"
 
 [[redirects]]
-from = "/agenda/index.html"
+from = "/agenda/"
 to = "/fr/evenements/"
 
 [[redirects]]
-from = "/ja/-1/index.html"
+from = "/ja/-1/"
 to = "/ja/l-institution/"
 
 [[redirects]]
-from = "/fr/agenda/index.html"
+from = "/fr/agenda/"
 to = "/fr/evenements/"
 
 [[redirects]]
-from = "/fr/agenda/archives/index.html"
+from = "/fr/agenda/archives/"
 to = "/fr/evenements/archives/"
 
 [[redirects]]
-from = "/agenda/archives/index.html"
+from = "/agenda/archives/"
 to = "/fr/evenements/archives/"
 
 [[redirects]]
-from = "/equipe/index.html"
+from = "/equipe/"
 to = "/fr/equipe/"
 
